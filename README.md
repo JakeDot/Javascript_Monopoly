@@ -1,2 +1,2 @@
-# Python_Monopoly
-Let's try making Monopoly in Python
+# JavaScript_Monopoly
+Let's try making Monopoly in JS
